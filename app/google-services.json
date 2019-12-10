@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920891856406",
+    "firebase_url": "https://guesswhat-4bf5f.firebaseio.com",
+    "project_id": "guesswhat-4bf5f",
+    "storage_bucket": "guesswhat-4bf5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920891856406:android:f2c2ab3972d41c8a1d8737",
+        "android_client_info": {
+          "package_name": "com.eliezer.guesswhat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920891856406-qsc9ovh2tp4sr8vbofc8dnnte3bm2i9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eliezer.guesswhat",
+            "certificate_hash": "5188ce2c7e845f38f0ef46bee7a2fa07d5e33a5b"
+          }
+        },
+        {
+          "client_id": "920891856406-iqec5rvnidl2k8j14h98g792cmtms2dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZPy-A8fZHTLVYgEZdA9LSXGuFNvvr7DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920891856406-iqec5rvnidl2k8j14h98g792cmtms2dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
